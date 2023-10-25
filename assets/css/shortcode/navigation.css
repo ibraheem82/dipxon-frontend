@@ -6,12 +6,12 @@ Main Navigation
     display: block;
   }
   
-  .zeref-main-navigation {
+  .dipxon-main-navigation {
     background-color: transparent;
     height: 100%;
     text-align: left;
   }
-  .sticky-header .zeref-main-navigation, .sticky-header .zeref-main-menu {
+  .sticky-header .dipxon-main-navigation, .sticky-header .zeref-main-menu {
     background: transparent;
   }
   
